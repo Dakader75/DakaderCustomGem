@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DakaderCustomGem::Renderer.copyright "Derek Thompson" , "All Rights Reserved"
+```
 
 ## Development
 
